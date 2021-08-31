@@ -12,3 +12,6 @@ The below will provide a visual specific to Theater campaigns and how they fared
 The below will provide a visual on how *successful, failed,* and *canceled* "Theater/Play" Kickstarter campaigns fared based on their funding goals. Using this data we can conclude that Theater campaigns are succesful more frequently when the funding goal is less than $1,000. We can also see that the effectiveness declines as the goal increases to $29,999.
 
 ![This is an image](https://github.com/KEGANCP/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
+## Challenges
+Some diffuculties identified when accumulating this date included breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.
