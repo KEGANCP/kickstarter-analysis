@@ -17,3 +17,9 @@ The below will provide a visual on how *successful, failed,* and *canceled* "The
 There are various challenges to consider when preparing this information; an example of a difficulty identified when accumulating this data includes breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.  
 
 # Results
+
+## Theater Outcomes by Launch Date
+- Historically May has been the most effective start date for Theater Kickstarter campaigns.
+- Historically December  has been the least effeective start date for Theater Kickstarter campaigns.
+- We conclude that summer months (May-July) have been the more effective start date for Theater Kickstarter campaigns.
+
