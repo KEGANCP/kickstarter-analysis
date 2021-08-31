@@ -23,3 +23,6 @@ There are various challenges to consider when preparing this information; an exa
 - Historically December  has been the least effeective start date for Theater Kickstarter campaigns.
 - We conclude that summer months (May-July) have been the more effective start date for Theater Kickstarter campaigns.
 
+## Outcomes based on Goals
+- Theater Kickstarter campaigns are succesful more frequently when the funding goal is less than $1,000.
+- Theater Kickstarter campaigns historically become less effective as the goal increases to $29,000.
