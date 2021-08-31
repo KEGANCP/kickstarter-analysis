@@ -14,4 +14,4 @@ The below will provide a visual on how *successful, failed,* and *canceled* "The
 ![This is an image](https://github.com/KEGANCP/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ## Challenges
-Some diffuculties identified when accumulating this date included breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.
+Some diffuculties identified when accumulating this data included breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.
