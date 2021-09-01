@@ -26,3 +26,11 @@ There are various challenges to consider when preparing this information; an exa
 ## Outcomes based on Goals
 - Theater Kickstarter campaigns are succesful more frequently when the funding goal is less than $1,000.
 - Theater Kickstarter campaigns historically become less effective as the goal increases to $29,000.
+
+## Limitations
+- Louise will not be able to determine specific region based effectiveness of Kickstarter campaigns, based on this dataset.
+
+## Further Potential Data
+Other helpful tables or graphs that we could generate with this data include:
+- How many backers, on average, result in a more succesful campaign.
+- What average donation quantity results in a more succesful campaign.
