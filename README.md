@@ -31,7 +31,7 @@ There are various challenges to consider when preparing this information; an exa
 - Louise will not be able to determine specific region based effectiveness of Kickstarter campaigns, based on this dataset.
 - This dataset does not provide data beyond 2017.
 
-## Further Potential Data
+## Further Potential Analysis
 Other helpful tables or graphs that we could generate with this data include:
 - How many backers, on average, result in a more succesful campaign.
 - What average donation quantity results in a more succesful campaign.
