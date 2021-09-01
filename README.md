@@ -33,6 +33,6 @@ There are various challenges to consider when preparing this information; an exa
 
 ## Further Potential Analysis
 Other helpful tables or graphs that we could generate with this data include:
-- How many backers, on average, result in a more succesful campaign.
-- What average donation quantity results in a more succesful campaign.
+- How many backers, on average, result in a more successful campaign.
+- What average donation quantity results in a more successful campaign.
 - We could also determine if a specific time of year results in higher backers & donation averages for Theater Kickstarter campaigns. 
